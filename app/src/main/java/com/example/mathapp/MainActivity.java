@@ -114,19 +114,8 @@ public class MainActivity extends AppCompatActivity {
 
         playAgain((findViewById(R.id.playAgainBtn)));
 
-
-
-
-
-
-
+        
     }
-
-
-
-
-
-
 
    private void initializeView() {
         startBtn = findViewById(R.id.startBtn);
